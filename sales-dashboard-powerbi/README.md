@@ -1,6 +1,6 @@
-## Deloitte Australia Technology Virtual Internship (Forage)
+# Deloitte Australia Technology Virtual Internship (Forage)
 
-# 📌 Overview
+## 📌 Overview
 
 This project was completed as part of the **Deloitte Australia Technology virtual job simulation** on Forage in January 2025. The simulation involved real-world tasks such as data analysis, dashboard creation, and client communication — replicating the work of Deloitte’s Technology Consulting team.
 
