@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,amount,status
+101,1,2022-02-01,250.0,completed
+102,2,2022-02-03,400.0,completed
+103,3,2022-02-05,,pending
+104,3,2022-02-05,180.0,completed
+105,4,2022-02-07,300.0,invalid
+106,4,2022-02-07,300.0,completed
